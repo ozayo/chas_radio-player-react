@@ -52,7 +52,13 @@ const App = () => {
         </a>
       </p>
       <p>
-        Created by Ozay Ozdemir <a href="#">Github repo</a>
+        Created by Ozay Ozdemir{" "}
+        <a
+          href="https://github.com/ozayo/chas_radio-player-react.git"
+          target="_blank"
+        >
+          Github repo
+        </a>
       </p>
       <div className="radiolist">
         <div className="filter">
